@@ -1,0 +1,21 @@
+{
+  "window": {
+    "width": 1480,
+    "height": 920
+  },
+  "last_model_path": "G:/homework/road_damage_system_ui_project_source (1)/road_damage_system_ui_project/runs/detect/runs/road_damage_multiclass/weights/best.pt",
+  "last_source_path": "G:/homework/road_damage_system_ui_project_source (1)/road_damage_system_ui_project/text/20.jpg",
+  "last_output_dir": "runs/predict",
+  "theme": "dark",
+  "last_source_mode": "图片",
+  "last_depth_model_path": "depth_model",
+  "last_imgsz": 960,
+  "last_frame_stride": 1,
+  "last_max_frames": 0,
+  "imgsz": 960,
+  "frame_stride": 1,
+  "max_frames": 0,
+  "depth_model_path": "depth_model",
+  "source_mode": "图片",
+  "python_executable": "F:\\software_Environment\\python.exe"
+}

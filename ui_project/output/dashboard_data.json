@@ -1,0 +1,56 @@
+[
+  {
+    "damage_id": "test.png_1",
+    "序号": 1,
+    "timestamp": "2026-03-28 18:49:03",
+    "source_frame": "test.png",
+    "category": "坑洼",
+    "confidence": 0.8789,
+    "bbox": [
+      117,
+      161,
+      273,
+      202
+    ],
+    "metrics": {
+      "area_m2": 0.29081,
+      "mean_depth_m": 0.045,
+      "max_depth_m": 0.07,
+      "mean_depth_cm": 4.5,
+      "max_depth_cm": 7.0,
+      "volume_m3": 0.013087,
+      "severity_score": 95.64,
+      "reference_depth": 126.0,
+      "mean_depth_delta": 10.0,
+      "max_depth_delta": 16.0
+    },
+    "status": "重度"
+  },
+  {
+    "damage_id": "test.png_2",
+    "序号": 2,
+    "timestamp": "2026-03-28 18:49:03",
+    "source_frame": "test.png",
+    "category": "坑洼",
+    "confidence": 0.8681,
+    "bbox": [
+      112,
+      74,
+      426,
+      123
+    ],
+    "metrics": {
+      "area_m2": 0.74078,
+      "mean_depth_m": 0.0272,
+      "max_depth_m": 0.0544,
+      "mean_depth_cm": 2.72,
+      "max_depth_cm": 5.44,
+      "volume_m3": 0.02,
+      "severity_score": 87.87,
+      "reference_depth": 46.0,
+      "mean_depth_delta": 4.0,
+      "max_depth_delta": 8.0
+    },
+    "status": "重度"
+  }
+]
